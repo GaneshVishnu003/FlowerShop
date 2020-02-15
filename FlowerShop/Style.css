@@ -1,0 +1,78 @@
+﻿form {
+    margin-left: 12%;
+    margin-right: 12%;
+    align-content: center;
+    border: 1.6px solid grey;
+}
+
+p.second {
+    style ="color:#00004d"
+}
+
+h1 {
+    color: darkslateblue;
+}
+
+input[type=text] {
+    border-color: darkturquoise;
+}
+
+.left {
+    width: 30%;
+    position: absolute;
+}
+
+.right {
+    width: 70%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 0px;
+}
+
+.left1 {
+    width: 30%;
+    position: absolute;
+}
+
+.center1 {
+    width: 35%;
+    position: relative;
+    margin-left: 35%;
+}
+
+.right1 {
+    width: 25%;
+    margin-left: 75%;
+}
+
+.second {
+    background-color: #f0bb75;
+    width: 97%;
+    height: 100%;
+}
+.second_common {
+}
+
+.boxdiv {
+    width: 60%;
+    position: relative;
+    margin-left: 35%;
+    margin-top:10px;
+}
+
+#border {
+    background-color: greenyellow;
+    height: 2px;
+}
+
+#float_lt {
+    float: inherit;
+}
+#visa {
+    width: 100px; 
+    height: 50px; 
+    float: right; 
+    margin-bottom:5px; 
+    vertical-align:bottom; 
+    margin-right:30px
+}
