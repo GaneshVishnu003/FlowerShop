@@ -6,7 +6,7 @@
     <style>
         #emptycolor {
             background-color: green;
-        }
+        } 
     </style>
     <h1>FLOWER SHOP ONLINE</h1>
     <h1 style="background-color: yellowgreen;">&nbsp</h1>
